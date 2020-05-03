@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Body by Wawa",
+        "img":"images/BBW.png",
+        "description":"",
+        "url":"https://bodybywawa.herokuapp.com/",
+        "github":"https://github.com/CaptWart/Project-BBW"
+    },
+    {
+        "id":2,
+        "name":"EMA: Music Event Search",
+        "img":"images/eventSearch.png",
+        "description":"",
+        "url":"https://emi-dev.github.io/projectEMA/",
+        "github":"https://github.com/Emi-dev/projectEMA"
+    },
+    {
+        "id":3,
+        "name":"Eat-Da-Burger",
+        "img":"images/burger.png",
+        "description":"",
+        "url":"https://secret-temple-22638.herokuapp.com/",
+        "github":"https://github.com/Emi-dev/Burger"
+    },
+    {
+        "id":4,
+        "name":"Weather Dashboard",
+        "img":"images/weather.png",
+        "description":"",
+        "url":"https://emi-dev.github.io/Weather-Dashboard/",
+        "github":"https://github.com/Emi-dev/Weather-Dashboard"
+    },
+    {
+        "id":5,
+        "name":"Day Planner",
+        "img":"images/dayPlanner.png",
+        "description":"",
+        "url":"https://emi-dev.github.io/Day-Planner/",
+        "github":"https://github.com/Emi-dev/Day-Planner"
+    },
+    {
+        "id":6,
+        "name":"Note Taker",
+        "img":"images/noteTaker.png",
+        "description":"",
+        "url":"https://stormy-reef-03325.herokuapp.com/",
+        "github":"https://github.com/Emi-dev/Note-Taker"
+    },
+    {
+        "id":7,
+        "name":"JavaScript Code Quiz",
+        "img":"images/code-quiz-intro.png",
+        "description":"",
+        "url":"https://emi-dev.github.io/Code-Quiz/",
+        "github":"https://github.com/Emi-dev/Code-Quiz"
+    },
+    {
+        "id":8,
+        "name":"Password Generator",
+        "img":"images/passwordGenerator.png",
+        "description":"",
+        "url":"https://emi-dev.github.io/HW3-Password-Generator/",
+        "github":"https://github.com/Emi-dev/HW3-Password-Generator"
+    }
+]

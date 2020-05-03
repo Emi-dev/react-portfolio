@@ -1,0 +1,15 @@
+.card {
+    color: #224e4c !important;
+    border-color: #7fa8a7 !important;
+    text-align: center;
+    padding: 0;
+}
+
+.card-header {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+}
