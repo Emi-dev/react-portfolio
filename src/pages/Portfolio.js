@@ -2,6 +2,7 @@ import React from "react";
 import Project from "../components/Project";
 import Projects from "../assets/data/projects.json";
 import Header from "../components/Header";
+import MyInfo from "../components/MyInfor";
 
 function Portfolio() {
     return (
@@ -20,6 +21,7 @@ function Portfolio() {
                     />
                 ))}
             </div>
+            <MyInfo />
         </div>
     );
 }
