@@ -1,0 +1,13 @@
+.container {
+  background-color: #ffffff;
+  margin-bottom: 24px;
+  padding: 15px;
+}
+
+/* style for the header part of main contents (About Me, Portfolio, Contact) */
+header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #4aaaa5;
+  border-bottom: 2px solid #dddddd;
+  margin-bottom: 1em;
+}

@@ -1,9 +1,26 @@
 .navbar {
     border-bottom: 2px solid #dddddd;
+    background-color: #c9c7c7 !important;
 }
 
 .navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #359b96 !important;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 2em;
 }
+
+.nav-item {
+    color: #4b4a4a !important;
+}
+
+/* #myName {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: 0;
+    padding: 0.7em;
+    position: absolute;
+    top: 0;
+} */

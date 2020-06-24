@@ -11,7 +11,7 @@ function Project(props) {
             </div>
             <div className="card-footer">
                 <a href={props.url} target="_blank" rel="noopener noreferrer" className="mx-2">
-                    <i className="fa fa-server fa-2x"></i>
+                    <i className="fa fa-link fa-2x"></i>
                 </a>
                 <a href={props.github} target="_blank" rel="noopener noreferrer" className="mx-2">
                     <i className="fab fa-github fa-2x"></i>

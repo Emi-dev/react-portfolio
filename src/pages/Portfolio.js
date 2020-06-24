@@ -3,10 +3,11 @@ import Project from "../components/Project";
 import Projects from "../assets/data/projects.json";
 import Header from "../components/Header";
 import MyInfo from "../components/MyInfor";
+import "./style.css";
 
 function Portfolio() {
     return (
-        <div>
+        <div className="container mt-4 rounded">
             <Header
                 page="Portfolio"
             />
