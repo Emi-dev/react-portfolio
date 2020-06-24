@@ -1,11 +1,11 @@
 [
     {
         "id":1,
-        "name":"Body by Wawa",
-        "img":"images/BBW.png",
+        "name":"Body by Framework",
+        "img":"images/BBF.png",
         "description":"",
-        "url":"https://bodybywawa.herokuapp.com/",
-        "github":"https://github.com/CaptWart/Project-BBW"
+        "url":"http://bodybyframework.com/",
+        "github":"https://github.com/CaptWart/BodyByFramework"
     },
     {
         "id":2,
@@ -17,6 +17,14 @@
     },
     {
         "id":3,
+        "name":"Body by Wawa",
+        "img":"images/BBW.png",
+        "description":"",
+        "url":"https://bodybywawa.herokuapp.com/",
+        "github":"https://github.com/CaptWart/Project-BBW"
+    },
+    {
+        "id":4,
         "name":"Eat-Da-Burger",
         "img":"images/burger.png",
         "description":"",
@@ -24,7 +32,7 @@
         "github":"https://github.com/Emi-dev/Burger"
     },
     {
-        "id":4,
+        "id":5,
         "name":"Weather Dashboard",
         "img":"images/weather.png",
         "description":"",
@@ -32,7 +40,7 @@
         "github":"https://github.com/Emi-dev/Weather-Dashboard"
     },
     {
-        "id":5,
+        "id":6,
         "name":"Day Planner",
         "img":"images/dayPlanner.png",
         "description":"",
@@ -40,7 +48,7 @@
         "github":"https://github.com/Emi-dev/Day-Planner"
     },
     {
-        "id":6,
+        "id":7,
         "name":"Note Taker",
         "img":"images/noteTaker.png",
         "description":"",
@@ -48,7 +56,7 @@
         "github":"https://github.com/Emi-dev/Note-Taker"
     },
     {
-        "id":7,
+        "id":8,
         "name":"JavaScript Code Quiz",
         "img":"images/code-quiz-intro.png",
         "description":"",
@@ -56,7 +64,7 @@
         "github":"https://github.com/Emi-dev/Code-Quiz"
     },
     {
-        "id":8,
+        "id":9,
         "name":"Password Generator",
         "img":"images/passwordGenerator.png",
         "description":"",
