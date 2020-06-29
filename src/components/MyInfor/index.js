@@ -11,7 +11,7 @@ function MyInfo() {
                 <a href="https://github.com/Emi-dev" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-github fa-2x m-2"></i>
                 </a>
-                <a href="/images/Emi Clar_Resume_June2020.pdf" target="_block">
+                <a href="/images/Emi Clar_Resume.pdf" target="_block">
                     <i class="fas fa-file fa-2x mt-2"></i>
                 </a>
             </div>
